@@ -17,6 +17,8 @@ export AWS_DEFAULT_REGION="ap-south-1"
 Create ec2-new-sg.tf:
 
 ```bash
+
+
 provider "aws" {
   region = "ap-south-1"
 }
