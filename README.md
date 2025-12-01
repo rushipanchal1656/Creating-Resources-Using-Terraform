@@ -1,6 +1,7 @@
-# 🚀 QUICK START
+# Terraform: Deploy EC2 with New or Existing Security Group in Mumbai (ap-south-1) Region
 
-🔄 USING NEW SECURITY GROUP
+# 🔄 USING NEW SECURITY GROUP
+
 Create ec2-new-sg.tf:
 
 ## Step 1: Set AWS Credentials
@@ -87,7 +88,8 @@ terraform apply -auto-approve
 
 # 🌐 ALTERNATIVE SETUP
 
-🔄 USING EXISTING SECURITY GROUP
+# 🔄 USING EXISTING SECURITY GROUP
+
 Create ec2-existing-sg.tf:
 
 ## Step 1: Create Terraform File
